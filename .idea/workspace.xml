@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="733b3022-db14-4103-b3d2-37823bf983e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Java_AS.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asign_3/src/Cl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPJ/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPJ/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPJ/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPJ/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPJ/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPJ/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaPJ/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPJ/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPJ/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +27,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/inderpreet/IdeaProjects"
+    "last_opened_file_path": "/home/inderpreet/Java_AS/Asign_3"
   }
 }]]></component>
   <component name="RunManager">

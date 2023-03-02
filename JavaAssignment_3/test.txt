@@ -1,0 +1,2 @@
+Details are !Name! IPs Singh!Age! 23 !Phone !98765345
+Details are !Name!  Jazz SS!Age! 22 !Phone !9989898
