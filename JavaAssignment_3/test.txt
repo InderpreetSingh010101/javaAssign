@@ -1,2 +1,8 @@
 Details are !Name! IPs Singh!Age! 23 !Phone !98765345
 Details are !Name!  Jazz SS!Age! 22 !Phone !9989898
+Details are !Name! IPs S!Age! 23 !Phone !98765
+Details are !Name! ips ss!Age! 23 !Phone !3243
+Details are !Name! Him su!Age! 23 !Phone !32244
+Details are !Name! Ips Singh!Age! 23 !Phone !32
+Details are !Name! ips ssingh!Age! 23 !Phone !232323
+Details are !Name! jazz ss!Age! 23 !Phone !32

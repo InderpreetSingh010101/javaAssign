@@ -18,10 +18,11 @@ public class Q2 {
 
         File file = new File("test.txt");
 
-         ;
-        // File Writer can take 2 parameters 1st is File argument 2nd is true which append true or false
 
-        while(true){
+        // File Writer can take 2 parameters 1st is File argument 2nd is true which append true or false
+        String s = "" ;
+
+        while(s.equalsIgnoreCase("quit") != true ){
 //            System.out.println("Enter Id ");
 //            int id = scn.nextInt() ;
 
@@ -37,6 +38,7 @@ public class Q2 {
 
             System.out.println("Enter The Phone Number");
             int phone = scn.nextInt() ;
+            scn.nextLine(); // After We take input from
 
             singleTclass s1 = singleTclass.getInstance(F_name,L_name ,age , phone) ;
             System.out.println(s1.showDetails());
@@ -49,6 +51,9 @@ public class Q2 {
             }catch (IOException e){
                 System.out.println("Unable To Read File");
             }
+
+            System.out.println("Do You Want to  Enter More");
+            s = scn.nextLine() ;
         }
 
     }
