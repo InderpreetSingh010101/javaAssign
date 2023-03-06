@@ -1,6 +1,7 @@
 package Q4;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
 
 //Create class Employee with attributes
@@ -24,6 +25,8 @@ public class q4 {
         for (Map.Entry<employee,Integer> e : hm.entrySet()){
             System.out.println("Key Is :- "+ e.getKey() + " " + "Salary Is" + e.getValue());
         }
+
+        HashSet<Integer> hs = new HashSet<>();
 
 
 

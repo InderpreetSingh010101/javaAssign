@@ -1,24 +1,30 @@
 package Q1;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.ListIterator;
 import java.util.Scanner;
-
+//  Write Java code to define List .
+//  Insert 5 floating point numbers in List, and using an iterator, find the sum of the numbers in List.
 public class q1 {
     public static void main(String[] args) {
 
 
         ArrayList<Double> ls = new ArrayList<>();
-        ListIterator<Double> listitr = ls.listIterator();
 
-        listitr.add(1.12345);
-        listitr.add(2.12345);
-        listitr.add(3.12345);
-        listitr.add(4.22345);
+        ls.add(1.12345);
+        ls.add(2.12345);
+        ls.add(3.12345);
+        ls.add(4.22345);
 
           Double sum = 0.0 ;
-        while(listitr.hasPrevious()){
-            Double val = listitr.previous() ;
+        Iterator<Double> listitr = ls.iterator();
+
+//        listitr.next() ;
+//        listitr.remove();
+
+        while(listitr.hasNext()){
+            Double val = listitr.next() ;
             sum += val ;
             System.out.println(val);
         }
