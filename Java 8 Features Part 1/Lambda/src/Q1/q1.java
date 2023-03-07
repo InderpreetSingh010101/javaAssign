@@ -20,6 +20,13 @@ public class q1 {
         };
         System.out.println(ob1.chk(4,3));
 
+        incremt objj = (int a)->{
+            a++ ;
+            return a;
+        } ;
+
+        System.out.println(objj.inc(5));
+
         concat obj2  = (String str1 , String str2)->{
               return str1+str2 ;
         };
