@@ -50,7 +50,7 @@ public class q1 {
 
 
         System.out.println(pred.test(22));
- //input argumnt type vv     vv output argument type
+//input argumnt type vv     vv output argument type
         Function<Integer , Double> fn = (a)->a*a/2.0;
 
         System.out.println(fn.apply(4));
