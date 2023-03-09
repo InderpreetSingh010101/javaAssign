@@ -30,7 +30,7 @@ class employee{
 }
 public class q5 {
     public static void main(String[] args) {
-        System.out.println("this");
+//        System.out.println("this");
 
         List<employee> list  = new ArrayList<>() ;
 
@@ -48,7 +48,7 @@ public class q5 {
 //                .filter(e->e.fullName.endsWith(""))
 
 
-        //System.out.println(
+        System.out.println(
                 list.stream()
 
                  .filter(e->e.salary < 5000L)
@@ -57,8 +57,10 @@ public class q5 {
                  .map(str->str.substring(0,str.indexOf(' ' )))
                         .distinct()                // for distinct name
                  //.collect(Collectors.toSet())  // by using set as for distinct names
-                 .forEach(System.out::println);
-        //);
+
+                        .collect(Collectors.toList())
+                       // .forEach(System.out::println);
+        );
 
     }
 }
