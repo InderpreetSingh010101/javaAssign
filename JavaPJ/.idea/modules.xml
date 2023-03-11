@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaPJ/JavaPJ.iml" filepath="$PROJECT_DIR$/JavaPJ/JavaPJ.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Java_AS.iml" filepath="$PROJECT_DIR$/.idea/Java_AS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Q5 ASSI-1/Q5 ASSI-1.iml" filepath="$PROJECT_DIR$/Q5 ASSI-1/Q5 ASSI-1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaPJ -1/JavaPJ/JavaPJ.iml" filepath="$PROJECT_DIR$/../JavaPJ -1/JavaPJ/JavaPJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaPJ -1/.idea/Java_AS.iml" filepath="$PROJECT_DIR$/../JavaPJ -1/.idea/Java_AS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaPJ -1/Q5 ASSI-1/Q5 ASSI-1.iml" filepath="$PROJECT_DIR$/../JavaPJ -1/Q5 ASSI-1/Q5 ASSI-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaPJ -1/test/test.iml" filepath="$PROJECT_DIR$/../JavaPJ -1/test/test.iml" />
     </modules>
   </component>
 </project>
