@@ -15,7 +15,7 @@ public class q2 {
 
         System.out.println(fn.calculation(4,2));
 
-        fn = calculator::multiplication ;
+        fn = calculator::multiplication ;  // static method referencing
 
         System.out.println(fn.calculation(3,4));
 

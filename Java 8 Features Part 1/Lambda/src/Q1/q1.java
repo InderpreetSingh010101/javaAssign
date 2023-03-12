@@ -12,30 +12,36 @@ package Q1;
 public class q1 {
     public static void main(String[] args) {
 
-        intef_big ob1 = (int a , int b)->{
-
-            if(a > b) return true;
-            else return false ;
-
-        };
+        intef_big ob1 = (a , b)->a>b;
+//        {
+//
+//            if(a > b) return true;
+//            else return false ;
+//
+//        };
         System.out.println(ob1.chk(4,3));
 
-        incremt objj = (int a)->{
-            a++ ;
-            return a;
-        } ;
+        incremt objj = (a)-> ++a ;
+
+//        {
+//            a++ ;
+//            return a;
+//        } ;
 
         System.out.println(objj.inc(5));
 
-        concat obj2  = (String str1 , String str2)->{
-              return str1+str2 ;
-        };
+        concat obj2  = (str1 , str2)-> str1+str2 ;
+
+//        {
+//              return str1+str2 ;
+//        };
 
         System.out.println(obj2.cc("abc" , "xyz"));
 
-        upper obj3 = (String str)->{
-           return str.toUpperCase() ;
-        };
+        upper obj3 = (str)-> str.toUpperCase() ;
+//        {
+//           return str.toUpperCase() ;
+//        };
 
         System.out.println(obj3.uppr("convert this") ) ;
 
