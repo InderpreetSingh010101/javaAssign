@@ -1,15 +1,15 @@
 package Q_2;
 
-public class singleTclass {
+public class singleclass {
 
-    private static singleTclass obj ;
+    private static singleclass obj ;
     private  String  F_name ;
     private String L_name ;
     private int age ;
 
     private int phone ;
 
-    private singleTclass(String F_name , String L_name , int age , int phone){
+    private singleclass(String F_name , String L_name , int age , int phone){
 
         this.F_name  = F_name ;
         this.L_name = L_name ;
@@ -17,9 +17,9 @@ public class singleTclass {
         this.phone = phone ;
     }
 
-    public static singleTclass getInstance(String F_name , String L_name , int age , int phone){
+    public static singleclass getInstance(String F_name , String L_name , int age , int phone){
         if(obj == null){
-            obj = new singleTclass(F_name , L_name , age , phone) ;
+            obj = new singleclass(F_name , L_name , age , phone) ;
         }else{
 
             obj.F_name  = F_name ;

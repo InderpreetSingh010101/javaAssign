@@ -40,7 +40,7 @@ public class Q2 {
             int phone = scn.nextInt() ;
             scn.nextLine(); // After We take input from
 
-            singleTclass s1 = singleTclass.getInstance(F_name,L_name ,age , phone) ;
+            singleclass s1 = singleclass.getInstance(F_name,L_name ,age , phone) ;
             System.out.println(s1.showDetails());
 
             try(BufferedWriter br = new BufferedWriter(new FileWriter(file,true))){ //
