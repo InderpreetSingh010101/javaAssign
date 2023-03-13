@@ -46,7 +46,7 @@ public class q1 {
 //                return false ;
 //        };
 
-        Predicate<Integer> pred = (age)->age > 20 ? true : false ;
+        Predicate<Integer> pred = (age)->age > 20  ;
 
 
         System.out.println(pred.test(22));

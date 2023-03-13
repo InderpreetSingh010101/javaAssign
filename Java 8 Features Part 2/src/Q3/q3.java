@@ -20,7 +20,7 @@ public class q3 {
 
         System.out.println( list.stream()
                  .filter((e)-> e>5 )
-                 .reduce(0,(a,b)->a+b)
+                .reduce(0,(a,b)->a+b)
         );
 
     }

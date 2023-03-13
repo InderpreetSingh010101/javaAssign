@@ -30,7 +30,7 @@ public class q5 {
 
         // orElse
         list.stream()
-                .filter(e->e >6)
+                .filter(e->e > 6)
                 .findFirst()
                 .orElseThrow(()->new Exception("Element Not Found") ) ;
 
