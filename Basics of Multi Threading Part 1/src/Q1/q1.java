@@ -40,7 +40,7 @@ public class q1 {
 
 
         try{
-            thrd1.join(2000);
+            thrd1.join();
         }catch (InterruptedException e){
             e.printStackTrace();
         }
@@ -53,11 +53,11 @@ public class q1 {
         }
         thrd3.start();
 
-        try{
-            thrd3.join();
-        }catch (InterruptedException e){
-            e.printStackTrace();
-        }
+//        try{
+//            thrd3.join();
+//        }catch (InterruptedException e){
+//            e.printStackTrace();
+//        }
 
 
 
