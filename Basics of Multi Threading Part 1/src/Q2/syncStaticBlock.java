@@ -4,9 +4,10 @@ import java.util.Objects;
 
 public class syncStaticBlock {
 
-
+    Object lock1 = new Object() ;
+    Object lock2 = new Object() ;
      public void test(){
-         synchronized (this){
+         synchronized (lock1){
         try{
             System.out.println(" Thread " + Thread.currentThread().getName() + "Entered");
             Thread.sleep(1000);
@@ -20,7 +21,7 @@ public class syncStaticBlock {
         }
     }
      public void test1() {
-         synchronized (this) {
+         synchronized (lock2) {
 
              try {
                  System.out.println("t1_Thread " + Thread.currentThread().getName() + "Entered");
