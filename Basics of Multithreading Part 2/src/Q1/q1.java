@@ -9,9 +9,7 @@ public class q1 {
         System.out.println("Q1");
         ExecutorService service = Executors.newFixedThreadPool(10) ;
 
-       // Running Form Runnable Interface
-        System.out.println("Using Runnable");
-        service.execute(new tsk1());
+
 
         System.out.println("Using Callable");
 
@@ -27,6 +25,11 @@ public class q1 {
 
         System.out.println("Result from future " +  res );
 
+
+        // Running Form Runnable Interface
+        System.out.println("Using Runnable");
+        service.execute(new tsk1());
+
         service.shutdown();
 
 
@@ -35,13 +38,15 @@ public class q1 {
 
         @Override
         public Integer call() throws Exception {
+            Integer a = 21 ;
             try{
                 System.out.println("Thread Working In callable");
-                Thread.sleep(5000);
+                Thread.sleep(2000);
             }catch (InterruptedException e){
                 e.printStackTrace();
             }
-            return new Random().nextInt() ;
+            return a ;
+//            return new Random().nextInt() ;
         }
     }
 
