@@ -1,5 +1,5 @@
 package Q3;
-
+//  3) WAP to showcase the usage of volatile in java.
 
 import java.util.Scanner;
 
@@ -28,7 +28,7 @@ class processor extends Thread{
         System.out.println("STOPPING");
     }
 }
-public class q3 {
+ public class q3 {
 
     public static void main(String[] args) {
         System.out.println("Q3");
