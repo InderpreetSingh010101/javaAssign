@@ -1,6 +1,5 @@
 package Q2;
-//2) Use a singleThreadExecutor, newCachedThreadPool() and newFixedThreadPool() to
-// submit a list of tasks and wait for completion of all tasks.
+
 public class Q2 {
     public static void main(String[] args) {
         System.out.println("q2");
@@ -48,7 +47,7 @@ public class Q2 {
 
         System.out.println("-----------------StaticSyncBlock-----------------" );
 
-        final SyncStaticBlock sb = new SyncStaticBlock() ;
+        final SyncBlock sb = new SyncBlock() ;
 
         Thread th4 = new Thread(){
             public void run(){

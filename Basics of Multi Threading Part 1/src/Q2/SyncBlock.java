@@ -1,6 +1,6 @@
 package Q2;
 
-public class SyncStaticBlock {
+public class SyncBlock {
 
     Object lock1 = new Object() ;
     Object lock2 = new Object() ;

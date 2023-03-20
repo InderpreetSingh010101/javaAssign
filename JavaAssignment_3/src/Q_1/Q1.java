@@ -8,7 +8,7 @@ public class Q1 {
         // their constructor are private
         // enumms are public static final
         //
-        for(enumClass obj : enumClass.values()){
+        for(EnumClass obj : EnumClass.values()){
             System.out.println("Rate For :" + obj + "is in Rs " + obj.getPrice());
         }
 

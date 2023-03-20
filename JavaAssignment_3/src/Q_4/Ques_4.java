@@ -12,8 +12,8 @@ public class Ques_4 {
         System.out.println("Choose animal CAT , DOG , COW");
         String str = scn.nextLine() ;
 
-        factoryMethod fac = new factoryMethod() ;
-        animals an = fac.chooseAnimal(str);
+        FactoryMethod fac = new FactoryMethod() ;
+        Animals an = fac.chooseAnimal(str);
         System.out.println(str + " -> " + an.sound() );
     }
 }

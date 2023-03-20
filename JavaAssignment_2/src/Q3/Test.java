@@ -1,6 +1,6 @@
 package Q3;
 
-public class test {
+public class Test {
     public void run() throws NoClassDefFoundError {
         int r = 0 ;
         if(r == 0 ){

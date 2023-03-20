@@ -4,7 +4,7 @@ public class Q3 {
 
 //WAP to produce NoClassDefFoundError and ClassNotFoundException exception.
     public static void main(String[] args){
-        test t = new test();
+        Test t = new Test();
 
         try{
              t .run();

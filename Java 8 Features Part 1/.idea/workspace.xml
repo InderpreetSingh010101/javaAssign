@@ -4,7 +4,77 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee21434c-c7a8-4d28-9ed6-aa05ef2f1306" name="Changes" comment="" />
+    <list default="true" id="ee21434c-c7a8-4d28-9ed6-aa05ef2f1306" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assignment_Collection/out/production/Assignment_Collection/Q2/q2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_Collection/out/production/Assignment_Collection/Q2/q2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_Collection/src/Q1/q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_Collection/src/Q1/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_Collection/src/Q2/q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_Collection/src/Q2/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_Collection/src/Q2/salComparitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_Collection/src/Q2/SalComparitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_Collection/src/Q3/llToStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_Collection/src/Q3/LlToStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_Collection/src/Q3/q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_Collection/src/Q3/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_Collection/src/Q4/employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_Collection/src/Q4/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_Collection/src/Q4/q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment_Collection/src/Q4/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q1/q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q1/q1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q1/threadWithClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q1/usingRunableItef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q2/q2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q2/q2$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q2/q2$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q2/q2$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q2/q2$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q2/q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q2/syncStaticBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q2/syncTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q3/processor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q3/q3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q3/q3_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q3/t1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/out/production/Basics of Multi Threading Part 1/Q3/t1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/src/Q1/q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/src/Q1/q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/src/Q2/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/src/Q2/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/src/Q2/SyncBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/src/Q2/SyncBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/src/Q3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics of Multi Threading Part 1/src/Q3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics of Multithreading Part 2/src/Q4/Q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Basics of Multithreading Part 2/src/Q4/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/Q1/concat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/Q1/Concat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/Q1/incremt.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/Q1/Incremt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/Q1/q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/Q1/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/Q1/upper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/Q1/Upper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/Q2/calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/Q2/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/Q2/functional_Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/Q2/Functional_Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/Q2/q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/Q2/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/Q3/q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/Q3/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/Q4/interFC.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/Q4/InterFC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/Q4/q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/Q4/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/src/Q4/sampleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/src/Q4/SampleClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 8 Features Part 2/out/production/Java 8 Features Part 2/Q1/q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java 8 Features Part 2/out/production/Java 8 Features Part 2/Q1/q1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 8 Features Part 2/out/production/Java 8 Features Part 2/Q_6/q6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java 8 Features Part 2/out/production/Java 8 Features Part 2/Q_6/q6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 8 Features Part 2/src/Q1/q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java 8 Features Part 2/src/Q1/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 8 Features Part 2/src/Q2/q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java 8 Features Part 2/src/Q2/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 8 Features Part 2/src/Q3/q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java 8 Features Part 2/src/Q3/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 8 Features Part 2/src/Q4/q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java 8 Features Part 2/src/Q4/Q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 8 Features Part 2/src/Q5/q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java 8 Features Part 2/src/Q5/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 8 Features Part 2/src/Q_6/q6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java 8 Features Part 2/src/Q_6/Q6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Additions/out/production/Java 9-17 Additions/Q10/q10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java 9-17 Additions/out/production/Java 9-17 Additions/Q10/q10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Additions/src/Q10/q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java 9-17 Additions/src/Q10/q10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Additions/src/Q4/q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java 9-17 Additions/src/Q4/q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java 9-17 Additions/src/Q5/q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java 9-17 Additions/src/Q5/q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_2/src/Q3/Q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_2/src/Q3/Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_2/src/Q3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_2/src/Q3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_1/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_1/Q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_1/enumClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_1/EnumClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_2/Q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_2/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_2/singleclass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_2/Singleclass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_4/Ques_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_4/Ques_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_4/animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_4/Animals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_4/cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_4/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_4/cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_4/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_4/dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_4/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_4/factoryMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_4/FactoryMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_5/q5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_5/Q5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_5/s_t_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaAssignment_3/src/Q_5/S_t_class.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

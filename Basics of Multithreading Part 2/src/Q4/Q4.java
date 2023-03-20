@@ -3,6 +3,8 @@ package Q4;
 import java.util.Random;
 import java.util.concurrent.*;
 
+//4) WAP to return a random integert value from a thread execution using Future.
+
 public class Q4 {
     public static void main(String[] args) {
          ExecutorService service = Executors.newFixedThreadPool(3) ;
