@@ -1,6 +1,6 @@
 package Q3;
 
-public class q3_1 {
+public class Q3 {
 
     public volatile static int countr = 0 ;
 

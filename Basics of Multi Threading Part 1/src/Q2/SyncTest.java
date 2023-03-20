@@ -1,6 +1,6 @@
 package Q2;
 
-public class syncTest {
+public class SyncTest {
 
     synchronized public void test(){
         try{

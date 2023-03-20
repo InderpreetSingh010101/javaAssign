@@ -1,9 +1,9 @@
 package Q1;
 
-public class threadWithClass extends Thread {
+public class ThreadWithClass extends Thread {
     private String threadName;
 
-    public threadWithClass(String threadName){
+    public ThreadWithClass(String threadName){
         this.threadName = threadName ;
     }
 

@@ -1,9 +1,9 @@
 package Q1;
 
-public class usingRunableItef implements Runnable {
+public class UsingRunableItef implements Runnable {
     private String threadName;
 
-    public usingRunableItef(String threadName){
+    public UsingRunableItef(String threadName){
         this.threadName = threadName ;
     }
 

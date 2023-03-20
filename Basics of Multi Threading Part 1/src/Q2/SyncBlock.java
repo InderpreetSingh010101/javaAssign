@@ -1,8 +1,6 @@
 package Q2;
 
-import java.util.Objects;
-
-public class syncStaticBlock {
+public class SyncStaticBlock {
 
     Object lock1 = new Object() ;
     Object lock2 = new Object() ;

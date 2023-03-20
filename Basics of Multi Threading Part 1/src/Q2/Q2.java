@@ -1,14 +1,14 @@
 package Q2;
 //2) Use a singleThreadExecutor, newCachedThreadPool() and newFixedThreadPool() to
 // submit a list of tasks and wait for completion of all tasks.
-public class q2 {
+public class Q2 {
     public static void main(String[] args) {
         System.out.println("q2");
 
 
 
 
-        final syncTest obj1 = new syncTest() ;
+        final SyncTest obj1 = new SyncTest() ;
 
 
         Thread th1 = new Thread(){
@@ -19,9 +19,9 @@ public class q2 {
         Thread th2 = new Thread(){
             public void run(){
 
-                obj1.test();
+                //obj1.test();
 
-//                obj1.test1();
+                obj1.test1();
 
             }
         };
@@ -33,6 +33,7 @@ public class q2 {
             }
         };
 
+        // Uncomment below To see Syncronize method
 //        th1.start();
 //        th2.start();
 
@@ -47,7 +48,7 @@ public class q2 {
 
         System.out.println("-----------------StaticSyncBlock-----------------" );
 
-        final syncStaticBlock sb = new syncStaticBlock() ;
+        final SyncStaticBlock sb = new SyncStaticBlock() ;
 
         Thread th4 = new Thread(){
             public void run(){
@@ -63,7 +64,7 @@ public class q2 {
        th4.start();
        th5.start();
 
-//        th3.start();
+
 
 
     }
